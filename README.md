@@ -63,6 +63,22 @@ _11. Para cada uno de los circuitos de la figura 5-54, determine la resistencia 
 ![image](https://user-images.githubusercontent.com/85259801/122592093-7def3f80-d029-11eb-8bfa-ef21c83efaeb.png)
 ![image](https://user-images.githubusercontent.com/85259801/122592112-834c8a00-d029-11eb-97fd-61fb81f0c3ae.png)
 
+_13. Para el circuito de la figura 5-56 encuentre las siguientes cantidades:_
+
+_a. La corriente del circuito._
+
+_b. La resistencia total._ 
+
+_c. El valor de la resistencia desconocida, R._ 
+
+_d. La caída de voltaje en todos los resistores en el circuito._ 
+
+_e. La potencia disipada por todos los resistores._
+
+![image](https://user-images.githubusercontent.com/84418933/122596711-e50ff280-d02f-11eb-87a6-7db2bbd8e3d3.png)
+![image](https://user-images.githubusercontent.com/84418933/122597186-a890c680-d030-11eb-9e7c-15b1d0da491a.png)
+
+
 _17. Repita el problema 16 para el circuito de la figura 5-60._
 
 ![image](https://user-images.githubusercontent.com/85259801/122592145-8f384c00-d029-11eb-92ee-ff23f83869bc.png)
