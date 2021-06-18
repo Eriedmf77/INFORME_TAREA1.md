@@ -240,6 +240,10 @@ _25. Sin usar lapiz, papel o calculadora determine la resistencia aproximada de 
 
 ![image](https://user-images.githubusercontent.com/85728185/122618130-3aa9c680-d053-11eb-962b-d99102dd824f.png)
 
+_27. Dos baterias de 20 V se conectan en paralelo para suministrar corriente a una carga de 100 V, como se muestra en la figura 6-69. Determine la corriente en la carga y en cada bateria._
+
+![image](https://user-images.githubusercontent.com/85728185/122618582-24503a80-d054-11eb-977b-5d6cc77a1fa1.png)
+
 _41. En el circuito de la figura 6-83_
 
 ![image](https://user-images.githubusercontent.com/85259801/122608589-18f41380-d042-11eb-9ab2-8080e37cc760.png)
