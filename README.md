@@ -123,6 +123,11 @@ _35. Para los circuitos en serie de la figura 5-74, determine la corriente en ca
 
 ** Capitulo 6 **
 
+_1. Indique cuáles de los elementos en la figura 6-44 están conectados en paralelo y cuáles en serie._
+![image](https://user-images.githubusercontent.com/84418933/122599219-9d8b6580-d033-11eb-867e-7b4523c128c1.png)
+![image](https://user-images.githubusercontent.com/84418933/122599242-a54b0a00-d033-11eb-8d08-02e1ad96bdba.png)
+
+
 ## 4.Video
 
 https://youtu.be/dM0LUGseUrQ
