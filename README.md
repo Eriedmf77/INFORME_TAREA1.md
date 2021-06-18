@@ -192,3 +192,8 @@ https://youtu.be/Q3uaFaE3YIU
 ## 5.Conclusiones
 
 ## 6.Bibliografía 
+
+EcuRed. (s. f.-b). Circuito en serie - EcuRed. Recuperado 18 de junio de 2021, de https://www.ecured.cu/Circuito_en_serie
+
+EcuRed. (s. f.-a). Circuito en paralelo - EcuRed. Recuperado 18 de junio de 2021, de https://www.ecured.cu/Circuito_en_paralelo
+
