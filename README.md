@@ -125,6 +125,8 @@ _35. Para los circuitos en serie de la figura 5-74, determine la corriente en ca
 
 ## 4.Video
 
+https://youtu.be/dM0LUGseUrQ
+
 ## 5.Conclusiones
 
 ## 6.Bibliografía 
