@@ -140,6 +140,9 @@ _5-10 Efectos de carga del amperímetro _
 _35. Para los circuitos en serie de la figura 5-74, determine la corriente en cada circuito. Si un amperímetro que tiene una resistencia interna de 50 Ω se usa para medir la corriente en los circuitos, determine la corriente a través de él y calcule el efecto de carga en cada circuito._
 
 ![image](https://user-images.githubusercontent.com/85259801/122592605-1c7ba080-d02a-11eb-84ad-d583089a8e3b.png)
+![image](https://user-images.githubusercontent.com/85259801/122603034-61f39a00-d039-11eb-9a46-a52bdb0c1024.png)
+![image](https://user-images.githubusercontent.com/85259801/122603065-6cae2f00-d039-11eb-9f9a-ece68623d2b6.png)
+![image](https://user-images.githubusercontent.com/85259801/122603077-72a41000-d039-11eb-836e-b22a4f68cd15.png)
 
 
 ** Capitulo 6 **
