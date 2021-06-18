@@ -4,7 +4,7 @@
 
 #### Integrantes: Danilo Taco, Erick Maisincho, David Vasquez
 
-## 1.Objetivos
+1.Objetivos
 ***Objetivo General***
 
 
