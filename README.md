@@ -211,6 +211,23 @@ _a. Calcule los valores de R1, R2 y R3 para que la resistencia total de la red s
 
 _b. Si R3 tiene una corriente de 2 A, determine la corriente a través de los otros resistores._
 
+_41. En el circuito de la figura 6-83_
+
+![image](https://user-images.githubusercontent.com/85259801/122608589-18f41380-d042-11eb-9ab2-8080e37cc760.png)
+![image](https://user-images.githubusercontent.com/85259801/122608609-24473f00-d042-11eb-8e9c-51abbf778267.png)
+![image](https://user-images.githubusercontent.com/85259801/122608632-2c06e380-d042-11eb-8fc8-f803ff005aa6.png)
+![image](https://user-images.githubusercontent.com/85259801/122608641-30cb9780-d042-11eb-8abb-86c05ed048ab.png)
+
+_b.	Calcule las corrientes a través de R_1,R_2,R_3_
+
+_Usamos la formula de potencia que es P=VxI_
+
+_Entonces reemplazamos valores_
+
+![image](https://user-images.githubusercontent.com/85259801/122608708-5193ed00-d042-11eb-8210-35cdfab55a71.png)
+![image](https://user-images.githubusercontent.com/85259801/122608722-5789ce00-d042-11eb-854c-edbd8d577665.png)
+
+
 
 ## 4.Video
 
