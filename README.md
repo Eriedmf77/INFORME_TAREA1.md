@@ -209,6 +209,9 @@ https://youtu.be/Q3uaFaE3YIU
 _Conforme a los ejercicios realizados de Circuitos en Serie hemos aplicado fórmulas y sobre todo conceptos de manera idonea._
 
 
+_Conforme a lo realizado cuando teneos circuito en serie las corriente solo se suman, la intensidad lo dividimos, que es diferente del circuito en paralelo obtenida es a menudo menor que la suma de las resistencias del circuito._
+
+
 ## 6.Bibliografía 
 
 EcuRed. (s. f.-b). Circuito en serie - EcuRed. Recuperado 18 de junio de 2021, de https://www.ecured.cu/Circuito_en_serie
