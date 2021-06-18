@@ -28,6 +28,10 @@ _Analizar los conceptos básicos del libro "análisis de circuitos" para la elab
 ## 3. Explicación y Resolución Ejercicios
 **Capitulo 5**
 
+_1. Los voltimetros de la figura tiene autopolaridad. Determine la lectura de cada medidor, con la magnitud y el signo correctos._
+![image](https://user-images.githubusercontent.com/84418933/122595595-52bb1f00-d02e-11eb-901a-a639d6a2b5ed.png)
+
+![image](https://user-images.githubusercontent.com/84418933/122595649-649cc200-d02e-11eb-8c4b-dcd462f1c3b2.png)
 
 _ 3. Todos los resistores de la figura 5-46 son de 15 _. Determine para cada caso la magnitud y la polaridad del voltaje V._
 
