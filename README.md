@@ -7,10 +7,13 @@
 ## 1.Objetivos
 ***Objetivo General***
 
-_Analizar los conceptos básicos del libro "análisis de circuitos" para la elaboracion de los ejercicios que se encuentran en los capitulos 5 y 6._
+_Analizar los conceptos básicos del libro "análisis de circuitos" para la elaboracion de los ejercicios que se encuentran en los capitulos 5 y 6
 
 ***Objetivos Específicos***
 
+_Realizar los ejercicios planteados de los capitulor 5 y 6_
+
+_Determinar correctamente las componentes de cada ejercicio para la elaboracion de los mismos_
 
 
 
@@ -18,10 +21,12 @@ _Analizar los conceptos básicos del libro "análisis de circuitos" para la elab
 
 **Capítulo 5**
 
+![image](https://user-images.githubusercontent.com/85259801/122605082-93ba3000-d03c-11eb-9c37-e5b2c0ce2e8b.png)
 
 
 **Capítulo 6**
 
+![image](https://user-images.githubusercontent.com/85259801/122605098-97e64d80-d03c-11eb-8029-6614e687f7c3.png)
 
 
 
@@ -198,7 +203,6 @@ https://youtu.be/Q3uaFaE3YIU
 ## 5.Conclusiones
 _Conforme a los ejercicios realizados de Circuitos en Serie hemos aplicado fórmulas y sobre todo conceptos de manera idonea._
 
-_Se comprendio como analizar e identificar circuitos en serie y cicuitos en paralelo al momento de tener un circuito a realizar debidamente con sus componentes._
 
 ## 6.Bibliografía 
 
