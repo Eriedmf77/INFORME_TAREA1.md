@@ -264,7 +264,7 @@ _27. Dos baterias de 20 V se conectan en paralelo para suministrar corriente a u
 
 _29. Utilice la regla del divisor de corriente para encontrar las corrientes I1 e I2 en las redes de la figura 6-71._
 
-![image](https://user-images.githubusercontent.com/85728185/122619131-5a41ee80-d055-11eb-848c-9838f128155c.png)
+![image](https://user-images.githubusercontent.com/85728185/122619206-83fb1580-d055-11eb-97fb-3eada6699bcf.png)
 
 _41. En el circuito de la figura 6-83_
 
