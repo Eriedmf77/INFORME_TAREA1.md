@@ -7,6 +7,7 @@
 ## 1.Objetivos
 ***Objetivo General***
 
+_Analizar los conceptos básicos del libro "análisis de circuitos" para la elaboracion de los ejercicios que se encuentran en los capitulos 5 y 6
 
 ***Objetivos Específicos***
 
