@@ -236,6 +236,10 @@ _23. Sin usar lapiz, papel o calculadora determine la resistencia de cada red en
 
 ![image](https://user-images.githubusercontent.com/85728185/122617713-611b3200-d052-11eb-92fa-b3fcdbfc4b05.png)
 
+_25. Sin usar lapiz, papel o calculadora determine la resistencia aproximada de la red de la figura 6-68._
+
+![image](https://user-images.githubusercontent.com/85728185/122618130-3aa9c680-d053-11eb-962b-d99102dd824f.png)
+
 _41. En el circuito de la figura 6-83_
 
 ![image](https://user-images.githubusercontent.com/85259801/122608589-18f41380-d042-11eb-9ab2-8080e37cc760.png)
