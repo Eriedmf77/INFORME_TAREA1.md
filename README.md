@@ -180,6 +180,11 @@ _1. Indique cuáles de los elementos en la figura 6-44 están conectados en para
 ![image](https://user-images.githubusercontent.com/84418933/122599219-9d8b6580-d033-11eb-867e-7b4523c128c1.png)
 ![image](https://user-images.githubusercontent.com/84418933/122599242-a54b0a00-d033-11eb-8d08-02e1ad96bdba.png)
 
+_3. Sin cambiar las posiciones de los componentes, muestre al menos una formade conectar en paralelo todos los elementos de la figura 6-46._
+
+![image](https://user-images.githubusercontent.com/85728185/122607710-9b7bd380-d040-11eb-881d-8d79c0afea0a.png)
+
+
 _6-2 Ley de corriente de Kirchhoff_
 
 _5. Utilice la ley de corriente de Kirchhoff para determinar las magnitudes y direcciones de las corrientes que se indican en cada red que se muestra en la figura 6-8._
