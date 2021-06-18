@@ -101,6 +101,12 @@ _17. Repita el problema 16 para el circuito de la figura 5-60._
 ![image](https://user-images.githubusercontent.com/85259801/122592238-a4ad7600-d029-11eb-868f-9f65df165c7e.png)
 ![image](https://user-images.githubusercontent.com/85259801/122592289-b68f1900-d029-11eb-8327-f2630b84a35c.png)
 
+_21. Vuelva a dibujar los circuitos de la figura 5-64 para mostrar una sola fuente de voltaje para cada circuito. Encuentre la corriente para cada circuito._
+
+![image](https://user-images.githubusercontent.com/85728185/122602615-c530fc80-d038-11eb-9bca-f083e3ad9dfe.png)
+
+![image](https://user-images.githubusercontent.com/85728185/122602647-d0842800-d038-11eb-93b0-b9f0f2ae0157.png)
+
 _Regla del divisor de voltaje _
 
 _23. Utilice la regla del divisor de voltaje para determinar el voltaje en cada resistor en los circuitos de la figura 5-66. Use sus resultados para verificar la ley de voltaje de Kirchhoff para cada circuito. _
