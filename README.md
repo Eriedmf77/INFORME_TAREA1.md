@@ -243,6 +243,17 @@ _17. Vea la red de la figura 6-60_
 
 ![image](https://user-images.githubusercontent.com/85259801/122619046-2961b980-d055-11eb-8d2f-da6a29850d07.png)
 
+_19. Determine la resistencia Total de cada red de la figura 6-62._
+
+![image](https://user-images.githubusercontent.com/85259801/122620137-c6255680-d057-11eb-9dd0-869198a65cb1.png)
+![image](https://user-images.githubusercontent.com/85259801/122620141-caea0a80-d057-11eb-92bf-da9c064ddb2e.png)
+
+![image](https://user-images.githubusercontent.com/85259801/122620152-ce7d9180-d057-11eb-8e03-8ecf955a6c94.png)
+![image](https://user-images.githubusercontent.com/85259801/122620158-d2a9af00-d057-11eb-9f28-dfea04a390ca.png)
+
+![image](https://user-images.githubusercontent.com/85259801/122620161-d63d3600-d057-11eb-9db8-fa362674c633.png)
+![image](https://user-images.githubusercontent.com/85259801/122620168-da695380-d057-11eb-83ee-67b5b5b84535.png)
+
 
 _21. Determine los valores de los resistores en el circuito de la figura 6-64, de acuerdo con las condiciones que se indican.__
 
