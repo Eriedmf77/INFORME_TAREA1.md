@@ -11,9 +11,6 @@ _Analizar los conceptos básicos del libro "análisis de circuitos" para la elab
 
 ***Objetivos Específicos***
 
-_Realizar los ejercicios planteados de los capitulor 5 y 6_
-
-_Determinar correctamente las componentes de cada ejercicio para la elaboracion de los mismos_
 
 
 
@@ -168,6 +165,14 @@ _35. Para los circuitos en serie de la figura 5-74, determine la corriente en ca
 
 ![image](https://user-images.githubusercontent.com/85259801/122592605-1c7ba080-d02a-11eb-84ad-d583089a8e3b.png)
 ![image](https://user-images.githubusercontent.com/85259801/122603247-abdc8000-d039-11eb-8b49-e794233a749a.png)
+
+_39. Vea el circuito de la figura 5-62. Use PSpice para encontrar lo siguiente:_
+
+![image](https://user-images.githubusercontent.com/85728185/122605196-be0bed80-d03c-11eb-8f83-38283b2d0c41.png)
+
+_b. El voltaje en cada resistor en el circuito._
+
+![image](https://user-images.githubusercontent.com/85728185/122605266-d2e88100-d03c-11eb-96eb-e0eec8d5aad5.png)
 
 ** Capitulo 6 **
 
