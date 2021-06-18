@@ -32,6 +32,13 @@ _ 3. Todos los resistores de la figura 5-46 son de 15 _. Determine para cada cas
 
 ![image](https://user-images.githubusercontent.com/85728185/122575134-0b289900-d016-11eb-947f-f14cfb989db7.png)
 
+_5-2 Ley de voltaje de Kirchhoff_
+
+_5. Determine los voltajes desconocidos en las redes de la figura 5-48._
+
+![image](https://user-images.githubusercontent.com/85259801/122591988-58facc80-d029-11eb-9ade-38a69a5de611.png)
+![image](https://user-images.githubusercontent.com/85259801/122592014-61530780-d029-11eb-9bdf-7f5a93de0485.png)
+
 _9. Determine la resissssssssstencia total de las redes que se muestra en la figura 5-52._
 
 ![image](https://user-images.githubusercontent.com/85728185/122576108-f993c100-d016-11eb-9be6-7e5d8bdba6ef.png)
@@ -39,6 +46,54 @@ _9. Determine la resissssssssstencia total de las redes que se muestra en la fig
 ![image](https://user-images.githubusercontent.com/85728185/122576491-58593a80-d017-11eb-8e41-d4692d00dd90.png)
 
 ![image](https://user-images.githubusercontent.com/85728185/122576940-db7a9080-d017-11eb-9004-0f1eb82bcdf7.png)
+
+_11. Para cada uno de los circuitos de la figura 5-54, determine la resistencia total, RT, y la corriente I._
+
+![image](https://user-images.githubusercontent.com/85259801/122592074-75970480-d029-11eb-86fd-ce2a8fd1fc5e.png)
+![image](https://user-images.githubusercontent.com/85259801/122592093-7def3f80-d029-11eb-8bfa-ef21c83efaeb.png)
+![image](https://user-images.githubusercontent.com/85259801/122592112-834c8a00-d029-11eb-97fd-61fb81f0c3ae.png)
+
+_17. Repita el problema 16 para el circuito de la figura 5-60._
+
+![image](https://user-images.githubusercontent.com/85259801/122592145-8f384c00-d029-11eb-92ee-ff23f83869bc.png)
+![image](https://user-images.githubusercontent.com/85259801/122592199-98c1b400-d029-11eb-929f-e5db1e833f9b.png)
+![image](https://user-images.githubusercontent.com/85259801/122592238-a4ad7600-d029-11eb-868f-9f65df165c7e.png)
+![image](https://user-images.githubusercontent.com/85259801/122592289-b68f1900-d029-11eb-8327-f2630b84a35c.png)
+
+_Regla del divisor de voltaje _
+
+_23. Utilice la regla del divisor de voltaje para determinar el voltaje en cada resistor en los circuitos de la figura 5-66. Use sus resultados para verificar la ley de voltaje de Kirchhoff para cada circuito. _
+
+![image](https://user-images.githubusercontent.com/85259801/122592339-c3ac0800-d029-11eb-909f-d5714721c5c6.png)
+![image](https://user-images.githubusercontent.com/85259801/122592373-cb6bac80-d029-11eb-8088-90634b2510d7.png)
+![image](https://user-images.githubusercontent.com/85259801/122592395-d32b5100-d029-11eb-9626-c7d4d1e5014f.png)
+![image](https://user-images.githubusercontent.com/85259801/122592415-daeaf580-d029-11eb-823a-51866f1f84c7.png)
+
+_Circuito 2._
+
+_Para el circuito 2 primero encontramos una resistencia total_
+
+![image](https://user-images.githubusercontent.com/85259801/122592472-e8a07b00-d029-11eb-8466-3480a056029a.png)
+![image](https://user-images.githubusercontent.com/85259801/122592489-ef2ef280-d029-11eb-9627-81345a9b4e3e.png)
+
+_5-8 Notación de subíndices de voltaje _
+
+_29. Resuelva para hallar los voltajes V_ab y  V_bc en los circuitos de la figura 5-68._
+
+![image](https://user-images.githubusercontent.com/85259801/122592527-fe15a500-d029-11eb-9435-140c97b36395.png)
+![image](https://user-images.githubusercontent.com/85259801/122592540-040b8600-d02a-11eb-9bf8-b19183245bc0.png)
+
+_Para el circuito 2_
+
+![image](https://user-images.githubusercontent.com/85259801/122592561-0bcb2a80-d02a-11eb-8eb9-0b7c11276ef8.png)
+![image](https://user-images.githubusercontent.com/85259801/122592573-11287500-d02a-11eb-9fbb-691fe96c1c61.png)
+
+_5-10 Efectos de carga del amperímetro _
+
+_35. Para los circuitos en serie de la figura 5-74, determine la corriente en cada circuito. Si un amperímetro que tiene una resistencia interna de 50 Ω se usa para medir la corriente en los circuitos, determine la corriente a través de él y calcule el efecto de carga en cada circuito._
+
+![image](https://user-images.githubusercontent.com/85259801/122592605-1c7ba080-d02a-11eb-84ad-d583089a8e3b.png)
+
 
 ** Capitulo 6 **
 
