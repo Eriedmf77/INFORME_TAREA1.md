@@ -203,6 +203,14 @@ _b. Determine el valor de la resistencia R3._
 ![image](https://user-images.githubusercontent.com/84418933/122601238-987be580-d036-11eb-8124-ab645aa36d4e.png)
 ![image](https://user-images.githubusercontent.com/84418933/122601261-a3367a80-d036-11eb-81a3-04711fc61f44.png)
 
+_15. Vea la red de la figura 6-58�_
+
+![image](https://user-images.githubusercontent.com/85728185/122608302-9703ea80-d041-11eb-833b-afc0ab68b44a.png)
+
+_a. Calcule los valores de R1, R2 y R3 para que la resistencia total de la red sea de 200._
+
+_b. Si R3 tiene una corriente de 2 A, determine la corriente a través de los otros resistores._
+
 
 ## 4.Video
 
