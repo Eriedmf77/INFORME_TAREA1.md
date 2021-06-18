@@ -232,6 +232,10 @@ _21. Determine los valores de los resistores en el circuito de la figura 6-64, d
 
 ![image](https://user-images.githubusercontent.com/85728185/122617248-83608000-d051-11eb-8503-760826781094.png)
 
+_23. Sin usar lapiz, papel o calculadora determine la resistencia de cada red en lafigura 6-66._
+
+![image](https://user-images.githubusercontent.com/85728185/122617713-611b3200-d052-11eb-92fa-b3fcdbfc4b05.png)
+
 _41. En el circuito de la figura 6-83_
 
 ![image](https://user-images.githubusercontent.com/85259801/122608589-18f41380-d042-11eb-9ab2-8080e37cc760.png)
