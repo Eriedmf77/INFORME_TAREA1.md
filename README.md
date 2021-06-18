@@ -11,7 +11,9 @@ _Analizar los conceptos básicos del libro "análisis de circuitos" para la elab
 
 ***Objetivos Específicos***
 
+_Realizar los ejercicios correspondientes a los capitulo dados_
 
+_Resolver de manera eficiente cada uno de los ejercicios_
 
 
 ## 2.Marco Teórico
