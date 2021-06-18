@@ -214,6 +214,15 @@ _a. La ley de corriente de Kirchhoff para calcular las corrientes desconocidas, 
 
 ![image](https://user-images.githubusercontent.com/85728185/122609474-a7b56000-d043-11eb-9836-e4b274243088.png)
 
+_11. Calcule la conductancia total y resistencia total de cada red que se muestra en la figura 6-54._
+
+![image](https://user-images.githubusercontent.com/85259801/122618974-01725600-d055-11eb-915d-2ffe861c7c66.png)
+
+_Sumamos las resistencias para tener una resistencia total_
+
+![image](https://user-images.githubusercontent.com/85259801/122618995-0cc58180-d055-11eb-9140-38e7696cceac.png)
+
+
 _15. Vea la red de la figura 6-58 _
 
 ![image](https://user-images.githubusercontent.com/85728185/122608302-9703ea80-d041-11eb-833b-afc0ab68b44a.png)
@@ -225,6 +234,15 @@ _b. Si R3 tiene una corriente de 2 A, determine la corriente a través de los ot
 _c. .Cuanta corriente debe aplicarse a toda la red?_
 
 ![image](https://user-images.githubusercontent.com/85728185/122609378-818fc000-d043-11eb-958c-cdf3a4e22f2f.png)
+
+_17. Vea la red de la figura 6-60_
+
+![image](https://user-images.githubusercontent.com/85259801/122619028-1e0e8e00-d055-11eb-939d-8ec840603771.png)
+
+![image](https://user-images.githubusercontent.com/85259801/122619036-22d34200-d055-11eb-92cc-1c2921881e7d.png)
+
+![image](https://user-images.githubusercontent.com/85259801/122619046-2961b980-d055-11eb-8d2f-da6a29850d07.png)
+
 
 _21. Determine los valores de los resistores en el circuito de la figura 6-64, de acuerdo con las condiciones que se indican.__
 
