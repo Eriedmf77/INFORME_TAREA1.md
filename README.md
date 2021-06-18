@@ -1,3 +1,4 @@
+
 # Informe Ejercicios Capitulo 5 y 6
 #### Fundamento de circuitos Eléctricos 
 ### Ing. Darwin Omar Alulema Flores
@@ -205,13 +206,25 @@ _b. Determine el valor de la resistencia R3._
 ![image](https://user-images.githubusercontent.com/84418933/122601238-987be580-d036-11eb-8124-ab645aa36d4e.png)
 ![image](https://user-images.githubusercontent.com/84418933/122601261-a3367a80-d036-11eb-81a3-04711fc61f44.png)
 
-_15. Vea la red de la figura 6-58�_
+_9. Vea la red de la figura 6-52:_
+
+![image](https://user-images.githubusercontent.com/85728185/122609504-b6037c00-d043-11eb-83b4-fe0195cedcad.png)
+
+_a. La ley de corriente de Kirchhoff para calcular las corrientes desconocidas, I1, I2, I3 e I4._
+
+![image](https://user-images.githubusercontent.com/85728185/122609474-a7b56000-d043-11eb-9836-e4b274243088.png)
+
+_15. Vea la red de la figura 6-58 _
 
 ![image](https://user-images.githubusercontent.com/85728185/122608302-9703ea80-d041-11eb-833b-afc0ab68b44a.png)
 
 _a. Calcule los valores de R1, R2 y R3 para que la resistencia total de la red sea de 200._
 
 _b. Si R3 tiene una corriente de 2 A, determine la corriente a través de los otros resistores._
+
+_c. .Cuanta corriente debe aplicarse a toda la red?_
+
+![image](https://user-images.githubusercontent.com/85728185/122609378-818fc000-d043-11eb-958c-cdf3a4e22f2f.png)
 
 _41. En el circuito de la figura 6-83_
 
