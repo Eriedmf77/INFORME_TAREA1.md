@@ -140,16 +140,22 @@ _5-10 Efectos de carga del amperímetro _
 _35. Para los circuitos en serie de la figura 5-74, determine la corriente en cada circuito. Si un amperímetro que tiene una resistencia interna de 50 Ω se usa para medir la corriente en los circuitos, determine la corriente a través de él y calcule el efecto de carga en cada circuito._
 
 ![image](https://user-images.githubusercontent.com/85259801/122592605-1c7ba080-d02a-11eb-84ad-d583089a8e3b.png)
-![image](https://user-images.githubusercontent.com/85259801/122603034-61f39a00-d039-11eb-9a46-a52bdb0c1024.png)
-![image](https://user-images.githubusercontent.com/85259801/122603065-6cae2f00-d039-11eb-9f9a-ece68623d2b6.png)
-![image](https://user-images.githubusercontent.com/85259801/122603077-72a41000-d039-11eb-836e-b22a4f68cd15.png)
-
+![image](https://user-images.githubusercontent.com/85259801/122603247-abdc8000-d039-11eb-8b49-e794233a749a.png)
 
 ** Capitulo 6 **
 
 _1. Indique cuáles de los elementos en la figura 6-44 están conectados en paralelo y cuáles en serie._
 ![image](https://user-images.githubusercontent.com/84418933/122599219-9d8b6580-d033-11eb-867e-7b4523c128c1.png)
 ![image](https://user-images.githubusercontent.com/84418933/122599242-a54b0a00-d033-11eb-8d08-02e1ad96bdba.png)
+
+_6-2 Ley de corriente de Kirchhoff_
+
+_5. Utilice la ley de corriente de Kirchhoff para determinar las magnitudes y direcciones de las corrientes que se indican en cada red que se muestra en la figura 6-8._
+
+![image](https://user-images.githubusercontent.com/85259801/122603344-ce6e9900-d039-11eb-9970-849b76cc2dfc.png)
+![image](https://user-images.githubusercontent.com/85259801/122603361-d3cbe380-d039-11eb-93ec-92ac6d29bc85.png)
+![image](https://user-images.githubusercontent.com/85259801/122603376-d6c6d400-d039-11eb-95dd-c55c38cc1cdb.png)
+![image](https://user-images.githubusercontent.com/85259801/122603396-db8b8800-d039-11eb-9d64-dfdb6ff15317.png)
 
 _7. Considere la red de la figura 6-50._
 
