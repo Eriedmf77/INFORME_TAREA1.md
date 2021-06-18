@@ -33,7 +33,7 @@ _1. Los voltimetros de la figura tiene autopolaridad. Determine la lectura de ca
 
 ![image](https://user-images.githubusercontent.com/84418933/122595649-649cc200-d02e-11eb-8c4b-dcd462f1c3b2.png)
 
-_ 3. Todos los resistores de la figura 5-46 son de 15 _. Determine para cada caso la magnitud y la polaridad del voltaje V._
+_3. Todos los resistores de la figura 5-46 son de 15 _. Determine para cada caso la magnitud y la polaridad del voltaje V._
 
 ![image](https://user-images.githubusercontent.com/85728185/122575134-0b289900-d016-11eb-947f-f14cfb989db7.png)
 
@@ -43,6 +43,11 @@ _5. Determine los voltajes desconocidos en las redes de la figura 5-48._
 
 ![image](https://user-images.githubusercontent.com/85259801/122591988-58facc80-d029-11eb-9ade-38a69a5de611.png)
 ![image](https://user-images.githubusercontent.com/85259801/122592014-61530780-d029-11eb-9bdf-7f5a93de0485.png)
+
+_7. Resuelva para hallar los voltajes desconocidos en el circuito de la figura 5-50._
+
+![image](https://user-images.githubusercontent.com/84418933/122596352-50a59000-d02f-11eb-95c5-1b6aad80cd44.png)
+![image](https://user-images.githubusercontent.com/84418933/122596370-59966180-d02f-11eb-8554-a21720727ba7.png)
 
 _9. Determine la resissssssssstencia total de las redes que se muestra en la figura 5-52._
 
