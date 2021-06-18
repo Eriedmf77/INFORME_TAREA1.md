@@ -18,10 +18,12 @@ _Analizar los conceptos básicos del libro "análisis de circuitos" para la elab
 
 **Capítulo 5**
 
+![image](https://user-images.githubusercontent.com/85259801/122605082-93ba3000-d03c-11eb-9c37-e5b2c0ce2e8b.png)
 
 
 **Capítulo 6**
 
+![image](https://user-images.githubusercontent.com/85259801/122605098-97e64d80-d03c-11eb-8029-6614e687f7c3.png)
 
 
 
