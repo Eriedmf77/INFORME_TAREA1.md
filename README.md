@@ -277,6 +277,10 @@ _29. Utilice la regla del divisor de corriente para encontrar las corrientes I1 
 
 ![image](https://user-images.githubusercontent.com/85728185/122619206-83fb1580-d055-11eb-97fb-3eada6699bcf.png)
 
+_33. Utilice la regla del divisor de corriente para determinar las resistencias desconocidas en la red de la figura 6-75._
+
+![image](https://user-images.githubusercontent.com/85728185/122622038-063b0800-d05d-11eb-9aa4-35ff296b6c7b.png)
+
 _41. En el circuito de la figura 6-83_
 
 ![image](https://user-images.githubusercontent.com/85259801/122608589-18f41380-d042-11eb-9ab2-8080e37cc760.png)
