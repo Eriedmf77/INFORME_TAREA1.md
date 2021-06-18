@@ -27,6 +27,7 @@
 ## 3. Explicación y Resolución Ejercicios
 **Capitulo 5**
 
+
 _ 3. Todos los resistores de la figura 5-46 son de 15 _. Determine para cada caso la magnitud y la polaridad del voltaje V._
 
 ![image](https://user-images.githubusercontent.com/85728185/122575134-0b289900-d016-11eb-947f-f14cfb989db7.png)
