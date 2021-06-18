@@ -196,6 +196,8 @@ https://youtu.be/dM0LUGseUrQ
 https://youtu.be/Q3uaFaE3YIU
 
 ## 5.Conclusiones
+_Conforme a los ejercicios realizados de Circuitos en Serie hemos aplicado fórmulas y sobre todo conceptos de manera idonea._
+
 
 ## 6.Bibliografía 
 
