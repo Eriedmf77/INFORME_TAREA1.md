@@ -34,6 +34,11 @@ _ 3. Todos los resistores de la figura 5-46 son de 15 _. Determine para cada cas
 
 _9. Determine la resissssssssstencia total de las redes que se muestra en la figura 5-52._
 
+![image](https://user-images.githubusercontent.com/85728185/122576108-f993c100-d016-11eb-9be6-7e5d8bdba6ef.png)
+
+![image](https://user-images.githubusercontent.com/85728185/122576491-58593a80-d017-11eb-8e41-d4692d00dd90.png)
+
+![image](https://user-images.githubusercontent.com/85728185/122576940-db7a9080-d017-11eb-9004-0f1eb82bcdf7.png)
 
 ** Capitulo 6 **
 
