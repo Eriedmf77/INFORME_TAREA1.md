@@ -131,6 +131,7 @@ _1. Indique cuáles de los elementos en la figura 6-44 están conectados en para
 ## 4.Video
 
 https://youtu.be/dM0LUGseUrQ
+
 https://youtu.be/Q3uaFaE3YIU
 
 ## 5.Conclusiones
