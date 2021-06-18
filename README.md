@@ -151,6 +151,12 @@ _Para el circuito 2_
 ![image](https://user-images.githubusercontent.com/85259801/122592561-0bcb2a80-d02a-11eb-8eb9-0b7c11276ef8.png)
 ![image](https://user-images.githubusercontent.com/85259801/122592573-11287500-d02a-11eb-9fbb-691fe96c1c61.png)
 
+_33. Se mide el voltaje en una bateria que tiene un voltaje de terminales abiertas de 14.2 V. Cuando se conecta a una carga de 100 _, el voltaje medido entre las terminales de la bateria cae a 6.8 V._
+
+_a. Determine la resistencia interna de la bateria._
+
+![image](https://user-images.githubusercontent.com/85728185/122604612-d6c7d380-d03b-11eb-9435-1d38da2bcbb8.png)
+
 _5-10 Efectos de carga del amperímetro _
 
 _35. Para los circuitos en serie de la figura 5-74, determine la corriente en cada circuito. Si un amperímetro que tiene una resistencia interna de 50 Ω se usa para medir la corriente en los circuitos, determine la corriente a través de él y calcule el efecto de carga en cada circuito._
