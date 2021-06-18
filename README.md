@@ -226,6 +226,12 @@ _c. .Cuanta corriente debe aplicarse a toda la red?_
 
 ![image](https://user-images.githubusercontent.com/85728185/122609378-818fc000-d043-11eb-958c-cdf3a4e22f2f.png)
 
+_21. Determine los valores de los resistores en el circuito de la figura 6-64, de acuerdo con las condiciones que se indican.__
+
+![image](https://user-images.githubusercontent.com/85728185/122617081-3e3c4e00-d051-11eb-8c86-ba6d0a6af51f.png)
+
+![image](https://user-images.githubusercontent.com/85728185/122617248-83608000-d051-11eb-8503-760826781094.png)
+
 _41. En el circuito de la figura 6-83_
 
 ![image](https://user-images.githubusercontent.com/85259801/122608589-18f41380-d042-11eb-9ab2-8080e37cc760.png)
