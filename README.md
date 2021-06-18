@@ -123,6 +123,22 @@ _Para el circuito 2 primero encontramos una resistencia total_
 ![image](https://user-images.githubusercontent.com/85259801/122592472-e8a07b00-d029-11eb-8466-3480a056029a.png)
 ![image](https://user-images.githubusercontent.com/85259801/122592489-ef2ef280-d029-11eb-9627-81345a9b4e3e.png)
 
+_27. Una serie de focos se conecta a una fuente de 120 V como se muestra en la figura 5-70._
+
+![image](https://user-images.githubusercontent.com/85728185/122603769-7b491600-d03a-11eb-8259-30bbf98a2da7.png)
+
+_a.Determine la corriente en el circuito._
+
+![image](https://user-images.githubusercontent.com/85728185/122603802-8b60f580-d03a-11eb-9ef0-52df99507331.png)
+
+_b.Utilice la regla del divisor de voltaje para encontrar el voltaje en cada foco.	_
+
+![image](https://user-images.githubusercontent.com/85728185/122603841-a2074c80-d03a-11eb-98bb-058f342c617f.png)
+
+_c.Calcule la potencia disipada por cada foco._
+
+![image](https://user-images.githubusercontent.com/85728185/122603865-b0edff00-d03a-11eb-867f-bb39f530078e.png)
+
 _5-8 Notación de subíndices de voltaje _
 
 _29. Resuelva para hallar los voltajes V_ab y  V_bc en los circuitos de la figura 5-68._
