@@ -1,5 +1,5 @@
 # Informe Ejercicios Capitulo 5 y 6
-### Fundamento de circuitos Eléctricos 
+#### Fundamento de circuitos Eléctricos 
 ### Ing. Darwin Omar Alulema Flores
 
 #### Integrantes: Danilo Taco, Erick Maisincho, David Vasquez
