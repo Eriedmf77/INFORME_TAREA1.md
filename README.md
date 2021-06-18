@@ -78,6 +78,21 @@ _e. La potencia disipada por todos los resistores._
 ![image](https://user-images.githubusercontent.com/84418933/122596711-e50ff280-d02f-11eb-87a6-7db2bbd8e3d3.png)
 ![image](https://user-images.githubusercontent.com/84418933/122597186-a890c680-d030-11eb-9e7c-15b1d0da491a.png)
 
+_15. Para el circuito de la figura 5-58, encuentre las siguientes cantidades:_
+
+![image](https://user-images.githubusercontent.com/85728185/122601935-a7af6300-d037-11eb-8154-0fd2e91714a2.png)
+
+_a.La corriente, I._
+
+![image](https://user-images.githubusercontent.com/85728185/122602002-bbf36000-d037-11eb-8b02-92687e428499.png)
+
+_b. La caida de voltaje en cada resistor en el circuito._
+
+![image](https://user-images.githubusercontent.com/85728185/122602052-cf9ec680-d037-11eb-9f6b-b6552221297d.png)
+
+_c.El voltaje en las terminales abiertas a y b._
+
+![image](https://user-images.githubusercontent.com/85728185/122602110-e47b5a00-d037-11eb-8fc3-661c0b43b9c5.png)
 
 _17. Repita el problema 16 para el circuito de la figura 5-60._
 
