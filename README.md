@@ -147,6 +147,7 @@ _7. Considere la red de la figura 6-50._
 _a. Calcule las corrientes I1, I2, I3 e I4._ 
 
 _b. Determine el valor de la resistencia R3._
+
 ![image](https://user-images.githubusercontent.com/84418933/122601238-987be580-d036-11eb-8124-ab645aa36d4e.png)
 ![image](https://user-images.githubusercontent.com/84418933/122601261-a3367a80-d036-11eb-81a3-04711fc61f44.png)
 
