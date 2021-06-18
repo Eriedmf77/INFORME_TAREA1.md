@@ -4,7 +4,7 @@
 
 #### Integrantes: Danilo Taco, Erick Maisincho, David Vasquez
 
-### 1.Objetivos
+#### 1.Objetivos
 ***Objetivo General***
 
 
@@ -13,7 +13,7 @@
 
 
 
-### 2.Marco Teórico
+#### 2.Marco Teórico
 
 **Capítulo 5**
 
@@ -23,13 +23,13 @@
 
 
 
-### 3. Explicación y Resolución Ejercicios
+#### 3. Explicación y Resolución Ejercicios
 **Capitulo 5**
 
 **Capitulo 6**
 
-### 4.Video
+#### 4.Video
 
-### 5.Conclusiones
+#### 5.Conclusiones
 
-### 6.Bibliografía 
+#### 6.Bibliografía 
